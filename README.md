@@ -18,3 +18,11 @@
 
  5 : if you dont know how to work with prettytable instructors are in [pypi](https://pypi.org/project/prettytable/) 
 
+
+
+
+ ## Example outputs:
+
+ ![test 1](<qgame tttest.png>)
+ ![alt text](<qgame ttest 2 .png>)
+
