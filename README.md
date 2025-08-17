@@ -23,6 +23,6 @@
 
  ## Example outputs:
 
- ![test 1](<qgame tttest.png>)
- ![alt text](<qgame ttest 2 .png>)
+ ![test 1](<Screenshots/qgame tttest.png>)
+ ![alt text](<Screenshots/qgame ttest 2 .png>)
 
