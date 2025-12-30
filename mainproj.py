@@ -17,7 +17,7 @@ table = PrettyTable()
 
 player_name = input("WELCOME\nenter your name: ")
 while quiz.still_has_question():
-    quiz.next_question()
+    quiz.current_question()
     
 quiz.quiz_completed()
 
